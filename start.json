@@ -1,6 +1,6 @@
 {    
     "name": "Start StremioMSX",
     "version": "1.0.0",
-    "parameter": "menu:http://link.to.menu",
+    "parameter": "content:https://bartche.github.io/msxstremio/data/content.json",
     "welcome": "none"
 }
