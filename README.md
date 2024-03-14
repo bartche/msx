@@ -15,3 +15,21 @@ With this in mind, recently I found out about Media Station X's existence, a cro
 ## Final Product
 
 I researched and developed this MSX service that serves purely for opening the Stremio TV Web as soon as the Media Station X finishes loading.
+
+
+## Tutorial (LGTV's WebOS in mind but works to all devices)
+
+1. Create a [Stremio account](https://www.stremio.com/register)
+2. Install the Media Station X from the LG app store.
+3. Launch the Media Station X application
+4. Navigate to Settings → Validate Links → Disable
+5. Navigate to Settings → Start Parameter → Setup
+6. Set the security lock (for HTTPS mode) and enter:
+   ```bartche.github.io```
+7. Save it and you are done!
+
+## Reference
+
+- [Stremio](https://www.stremio.com/)
+- [Stremio TV Web](https://tv.strem.io/)
+- [Media Station X](https://msx.benzac.de/info/)
