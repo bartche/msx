@@ -24,9 +24,9 @@ I researched and developed this MSX service that serves purely for opening the S
 3. Launch the Media Station X application
    ![MSX Start Menu](https://raw.githubusercontent.com/bartche/msx/main/imgs/msxmain.jpeg)
 5. Navigate to Settings → Validate Links → No
-   ![MSX Start Menu](https://raw.githubusercontent.com/bartche/msx/main/imgs/validatelinks.jpeg)
+   ![MSX Validade Links Menu](https://raw.githubusercontent.com/bartche/msx/main/imgs/validadelinks.jpeg)
 7. Navigate to Settings → Start Parameter → Setup
-   ![MSX Start Menu](https://raw.githubusercontent.com/bartche/msx/main/imgs/startparams.jpeg)
+   ![MSX Start Parameters](https://raw.githubusercontent.com/bartche/msx/main/imgs/startparam.jpeg)
 9. Set the security lock (for HTTPS mode) and enter:
    ```bartche.github.io```
 10. Save it and you are done!
