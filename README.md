@@ -22,11 +22,14 @@ I researched and developed this MSX service that serves purely for opening the S
 1. Create a [Stremio account](https://www.stremio.com/register)
 2. Install the [Media Station X from the LG app store](https://br.lgappstv.com/main/tvapp/detail?appId=464834&catCode1=&moreYn=N&cateYn=N&orderType=0&headerName=&appRankCode=&sellrUsrNo=)
 3. Launch the Media Station X application
-4. Navigate to Settings → Validate Links → No
-5. Navigate to Settings → Start Parameter → Setup
-6. Set the security lock (for HTTPS mode) and enter:
+   ![MSX Start Menu](https://raw.githubusercontent.com/bartche/msx/main/imgs/msxmain.jpeg)
+5. Navigate to Settings → Validate Links → No
+   ![MSX Start Menu](https://raw.githubusercontent.com/bartche/msx/main/imgs/validatelinks.jpeg)
+7. Navigate to Settings → Start Parameter → Setup
+   ![MSX Start Menu](https://raw.githubusercontent.com/bartche/msx/main/imgs/startparams.jpeg)
+9. Set the security lock (for HTTPS mode) and enter:
    ```bartche.github.io```
-7. Save it and you are done!
+10. Save it and you are done!
 
 ## Reference
 
