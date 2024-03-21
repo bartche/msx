@@ -3,6 +3,7 @@
 
 This is a Media Station X service that opens Stremio TV Web.
 
+NOTE: IT REQUIRES THE [STREMIO SERVICE](https://www.stremio.com/download-service) FOR NON-HTTPS STREAMS.
 
 ## Motivation
 
