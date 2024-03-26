@@ -35,6 +35,7 @@ I researched and developed this (low effort) MSX service that serves purely for 
 ## Disclaimer
 
 I'm not the owner of any program or website presented here, nor do I know their owners.
+Stremio TV Web is an unmaintained outdated version of Stremio and you might encounter some bugs and issues that will not be solved as [said by Stremio team](https://www.reddit.com/r/Stremio/comments/1bjklx8/comment/kvv4qn4).
 
 ## Reference
 
