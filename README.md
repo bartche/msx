@@ -5,6 +5,8 @@ This is a Media Station X service that opens Stremio TV Web.
 
 NOTE: YOU MIGHT WANT THE [STREMIO SERVICE](https://www.stremio.com/download-service) RUNNING TOGETHER WITH THIS SERVICE.
 
+# Update: [Since April 30, 2024 Stremio is now available on LG Content Store](https://blog.stremio.com/stremio-is-now-available-on-lg-tvs-for-models-2020/) for models 2020+. I'm maintaining this repo public for now, as it can be usefull for people with older TV models.
+
 ## Motivation
 
 As in this repo's publication date there isn't an official Stremio app for LGTV's WebOS system. The methods to get around it are impratical, in need of additional hardware or infunctional in some televisions (casting, chromecast or native web browser).
